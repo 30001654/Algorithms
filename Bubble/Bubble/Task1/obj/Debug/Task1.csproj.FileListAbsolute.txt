@@ -1,0 +1,7 @@
+H:\Desktop\Algorithms\Bubble\Task1\bin\Debug\Task1.exe.config
+H:\Desktop\Algorithms\Bubble\Task1\bin\Debug\Task1.exe
+H:\Desktop\Algorithms\Bubble\Task1\bin\Debug\Task1.pdb
+H:\Desktop\Algorithms\Bubble\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+H:\Desktop\Algorithms\Bubble\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+H:\Desktop\Algorithms\Bubble\Task1\obj\Debug\Task1.exe
+H:\Desktop\Algorithms\Bubble\Task1\obj\Debug\Task1.pdb
